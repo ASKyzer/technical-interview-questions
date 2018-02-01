@@ -8,3 +8,10 @@
 * more info...
 * more info....
 
+### What is quirks mode?
+
+# CSS 
+
+### What is the difference between css background and background color?
+
+
