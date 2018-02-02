@@ -14,4 +14,8 @@
 
 ### What is the difference between css background and background color?
 
+### What is a framework?
+
+### What is a library?
+
 
